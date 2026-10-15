@@ -6,7 +6,7 @@ package com.mycompany.navarromartinez_jaime_ut3_lab;
 
 /**
  *
- * @author DAM2P
+ * @author Jaime Navarro Martínez
  */
 public class HoloNet {
 
